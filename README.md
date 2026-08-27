@@ -364,7 +364,7 @@ The project is designed to grow toward a more complete C++ build system while ke
 ## License
 
 Build is licensed under the [MIT License](LICENSE).
+See the repository license for details.
 
 Built by [Ayaan Dhalait](https://github.com/ayaandh)
 
-See the repository license for details.
