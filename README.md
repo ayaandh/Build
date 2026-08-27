@@ -27,7 +27,7 @@ Build wraps the boring parts of invoking a compiler into a small, straightforwar
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/ayaandh/Build.git)
 cd build
 ```
 
@@ -362,5 +362,9 @@ Build is currently a lightweight command-line build tool.
 The project is designed to grow toward a more complete C++ build system while keeping its command-line interface simple and predictable.
 
 ## License
+
+Build is licensed under the [MIT License](LICENSE).
+
+Built by [Ayaan Dhalait](https://github.com/ayaandh)
 
 See the repository license for details.
